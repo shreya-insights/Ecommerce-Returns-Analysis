@@ -4,15 +4,20 @@
 
 ##Assignment Questions
 
-https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fshreya-insights%2FEcommerce-Returns-Analysis%2F468f4e3fefe37d5d0c041ec69f80ea7025d0e2ec%2FAssignmets.pptx&wdOrigin=BROWSELINK
+- <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fshreya-insights%2FEcommerce-Returns-Analysis%2F468f4e3fefe37d5d0c041ec69f80ea7025d0e2ec%2FAssignmets.pptx&wdOrigin=BROWSELINK">Assignment Questions</a>
+
 
 # Returns Dashboard - Power BI  
 
 I developed a **Returns Dashboard** in Power BI to analyze and visualize product returns data for the year 2023. The dashboard provides actionable insights to improve returns performance and enhance decision-making.
 
+- <a href="https://github.com/shreya-insights/Ecommerce-Returns-Analysis/blob/468f4e3fefe37d5d0c041ec69f80ea7025d0e2ec/Assigment%203.pbit"> (Power BI report)</a>
+
 ## Dataset Used  
 - **Returns Data** (Part Number, PO Number, Delivery Date, Incident Type, Comments)  
 - **Sales Data** (PO Number, PO Date, SKU, Quantity, Wholesale Price, Subtotal Sales)  
+
+- <a href="https://github.com/shreya-insights/Ecommerce-Returns-Analysis/commit/d016b493f6a05395d696c0a32255220040b1913d#diff-0c45127c5418abdb72eb6e63ced491e33303abbe4c47fc96b198d3847535ee50"> (Raw Datasets used)</a>
 
 ## KPIs:  
 - **Monthly Returns Trend** – Track return patterns over time.  
@@ -30,8 +35,24 @@ I developed a **Returns Dashboard** in Power BI to analyze and visualize product
 ## Processed Dataset  
 - Returns and Sales Data (Processed in Power BI)  
 
-## Dashboard  
-![Dashboard Image](path/to/your/dashboard-image.png)  
+## Assignment 1
+- <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fshreya-insights%2FEcommerce-Returns-Analysis%2Frefs%2Fheads%2Fmain%2FAssignment%25201.xlsx&wdOrigin=BROWSELINK"> Calculate the selling price for each SKU, ensuring that we achieve a net margin of 15%.
+</a>
+
+## Assignment 2
+- <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fshreya-insights%2FEcommerce-Returns-Analysis%2Frefs%2Fheads%2Fmain%2FAssignment%25202.xlsx&wdOrigin=BROWSELINK"> Provide a Weekly working cashflow summary. Also provide the below inputs:
+Closing balance after all the income realized and expenses paid off.
+Mention the weeks in which we are have more expenses than income.
+</a>
+
+## Assignment 3 
+![image](https://github.com/user-attachments/assets/17c2ff15-24e9-4b7f-9c22-783773a26e95)
+- <a href="https://github.com/shreya-insights/Ecommerce-Returns-Analysis/blob/main/Assigment%203.pbit">
+Need to build a returns dashboard for the year 2023 using all the files present. Dashboard should focus on data presentation at the same time it should be helpful in decision-making and should drive actionable insights for improving returns performance. Analysis we are looking for :
+Monthly returns trend, SKUs with highest return% in comparison to total sales.
+Analyse reasons for similar return reasons.
+</a>
+
 
 ## Key Insights  
 📌 **Seasonal Return Trends** – Returns peaked in certain months.  
